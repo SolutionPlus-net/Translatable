@@ -1,6 +1,6 @@
 <?php
 
-namespace Mabrouk\Translatable\Rules;
+namespace Otas\Translatable\Rules;
 
 use Closure;
 use Illuminate\Contracts\Validation\ValidationRule;

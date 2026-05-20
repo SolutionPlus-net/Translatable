@@ -1,5 +1,5 @@
 {
-    "name": "mabrouk/translatable",
+    "name": "otas/translatable",
     "description": "a laravel package to handle dealing with dynamic translations",
     "type": "library",
     "license": "MIT",
@@ -19,14 +19,14 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mabrouk\\Translatable\\TranslatableServiceProvider"
+                "Otas\\Translatable\\TranslatableServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "Mabrouk\\Translatable\\": "src/"
+            "Otas\\Translatable\\": "src/"
         }
     },
     "autoload-dev": {

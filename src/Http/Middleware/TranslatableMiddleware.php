@@ -1,9 +1,9 @@
 <?php
 
-namespace Mabrouk\Translatable\Http\Middleware;
+namespace Otas\Translatable\Http\Middleware;
 
 use Closure;
-use Mabrouk\Translatable\Rules\LocaleRule;
+use Otas\Translatable\Rules\LocaleRule;
 
 /**
  * Middleware to handle translation-related functionality in HTTP requests.

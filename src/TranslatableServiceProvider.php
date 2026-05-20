@@ -1,11 +1,11 @@
 <?php
 
-namespace Mabrouk\Translatable;
+namespace Otas\Translatable;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
-use Mabrouk\Translatable\Console\Commands\MakeTranslationModelCommand;
-use Mabrouk\Translatable\Http\Middleware\TranslatableMiddleware;
+use Otas\Translatable\Console\Commands\MakeTranslationModelCommand;
+use Otas\Translatable\Http\Middleware\TranslatableMiddleware;
 
 class TranslatableServiceProvider extends ServiceProvider
 {

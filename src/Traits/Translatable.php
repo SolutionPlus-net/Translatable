@@ -1,6 +1,6 @@
 <?php
 
-namespace Mabrouk\Translatable\Traits;
+namespace Otas\Translatable\Traits;
 
 use ReflectionClass;
 

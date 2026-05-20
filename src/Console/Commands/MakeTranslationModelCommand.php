@@ -1,6 +1,6 @@
 <?php
 
-namespace Mabrouk\Translatable\Console\Commands;
+namespace Otas\Translatable\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;

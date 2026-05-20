@@ -2,7 +2,7 @@
 
 namespace JohnDoe\BlogPackage\Tests;
 
-use Mabrouk\Translatable\TranslatableServiceProvider;
+use Otas\Translatable\TranslatableServiceProvider;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {

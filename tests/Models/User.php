@@ -1,10 +1,10 @@
 <?php
 
-namespace Mabrouk\Translatable\Tests\Models;
+namespace Otas\Translatable\Tests\Models;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
-use Mabrouk\Translatable\Traits\Translatable;
+use Otas\Translatable\Traits\Translatable;
 use Illuminate\Foundation\Auth\Access\Authorizable;
 use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
 use Illuminate\Contracts\Auth\Access\Authorizable as AuthorizableContract;
